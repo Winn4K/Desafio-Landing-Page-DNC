@@ -1,3 +1,10 @@
-# DESAFIO 1 - RESOLUÇÃO
-Link do site disponibilizado: https://desafio-landingpage-arquitetos.netlify.app/ <br>
-Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1zYD4lczB5pPBPCxGrDWN1AfIHsmw_nocRSLIckuIs_E/edit?usp=sharing
+# Landing Page para Empresa de Arquitetura
+
+fiz essas Landing page para empresas de arquitetura captarem clientes para exercicio das minhas habilidades com HTML 
+
+## Demonstração
+
+Dê uma olhada como ficou: https://desafio-landingpage-arquitetos.netlify.app/ 
+
+### Tela Principal
+![image](https://github.com/user-attachments/assets/ca104fb2-7f0d-4a9a-9ec1-58abbe62ffa7)
