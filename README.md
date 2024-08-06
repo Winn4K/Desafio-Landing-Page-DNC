@@ -1,6 +1,6 @@
 # Landing Page para Empresa de Arquitetura
 
-fiz essas Landing page para empresas de arquitetura captarem clientes para exercicio das minhas habilidades com HTML 
+fiz essa Landing page para empresas de arquitetura captarem clientes para exercicio das minhas habilidades com HTML 
 
 ## Demonstração
 
